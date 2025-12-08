@@ -1,0 +1,38 @@
+[
+    {
+        "idMed": 1,
+        "nombreMed": "Juan",
+        "apellidoMed": "Flores",
+        "anosExperiencia": 10
+    },
+    {
+        "idMed": 3,
+        "nombreMed": "Luis",
+        "apellidoMed": "Ramos",
+        "anosExperiencia": 8
+    },
+    {
+        "idMed": 1,
+        "nombreMed": "Juan",
+        "apellidoMed": "Flores",
+        "anosExperiencia": 10
+    },
+    {
+        "idMed": 3,
+        "nombreMed": "Luis",
+        "apellidoMed": "Ramos",
+        "anosExperiencia": 8
+    },
+    {
+        "idMed": 1,
+        "nombreMed": "Juan",
+        "apellidoMed": "Flores",
+        "anosExperiencia": 10
+    },
+    {
+        "idMed": 3,
+        "nombreMed": "Luis",
+        "apellidoMed": "Ramos",
+        "anosExperiencia": 8
+    }
+]
